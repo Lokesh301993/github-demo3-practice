@@ -1,2 +1,3 @@
-file1 master hello
+
+file1 master goodbye
 file1 bugg1
